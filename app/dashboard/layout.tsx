@@ -1,5 +1,3 @@
-import '@/app/ui/global.css';
-import { inter } from './ui/fonts';
 import SideNav from '@/app/ui/dashboard/sidenav';
 export default function Layout({
   children,
